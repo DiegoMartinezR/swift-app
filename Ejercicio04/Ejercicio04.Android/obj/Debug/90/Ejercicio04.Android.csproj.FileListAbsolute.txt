@@ -496,3 +496,4 @@ C:\Users\DIEGO\source\repos\Laboratorio6\Ejercicio04\Ejercicio04.Android\obj\Deb
 C:\Users\DIEGO\source\repos\Laboratorio6\Ejercicio04\Ejercicio04.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
 C:\Users\DIEGO\source\repos\Laboratorio6\Ejercicio04\Ejercicio04.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\DIEGO\source\repos\Laboratorio6\Ejercicio04\Ejercicio04.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\DIEGO\source\repos\Laboratorio6\Ejercicio04\Ejercicio04.Android\bin\Debug\Ejercicio04.dll.mdb

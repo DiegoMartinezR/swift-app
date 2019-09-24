@@ -15,10 +15,16 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Compile Update="TextToSpeechDemo.xaml.cs">
+      <DependentUpon>TextToSpeechDemo.xaml</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
     <EmbeddedResource Update="BatteryDemo .xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Update="TextToSpeechDemo .xaml">
+    <EmbeddedResource Update="TextToSpeechDemo.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
   </ItemGroup>
